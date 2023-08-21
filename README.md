@@ -4,6 +4,6 @@
         I am a Frontend Engineer, with an interest in turning words into functionality.
     </p>
     <p>
-        Current Project: <a href="harvard-cs50x-awcoetzer">here</a>
+        Current Project: <a href="https://harvard-cs50x-awcoetzer.netlify.app">here</a>
     </p>
 </div>
