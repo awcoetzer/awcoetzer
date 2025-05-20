@@ -3,7 +3,7 @@
     <p>
         If it screams “What could go wrong?”, I’ve probably already pushed it to main.<br>
         Violating best practices since day one.<br>
-        Sometimes on purpose, sometimes by accident, mostly both, to be honest.
+        Sometimes on purpose. Sometimes by accident. Mostly both, to be honest.
     </p>
     <br>
     <h3>Motto: "Ship fast, regret later."</h3>
