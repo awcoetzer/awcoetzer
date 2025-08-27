@@ -7,4 +7,5 @@
     </p>
     <br>
     <h3>Motto: "Ship fast, regret later."</h3>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5495566" style='border:none;'></iframe>
 </div>
