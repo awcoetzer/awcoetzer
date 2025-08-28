@@ -7,6 +7,5 @@
     </p>
     <br>
     <h3>Motto: "Ship fast, regret later."</h3>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Aethr.png" alt="Your Image Badge" />
 </div>
 
